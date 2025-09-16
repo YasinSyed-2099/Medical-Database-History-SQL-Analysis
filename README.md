@@ -7,10 +7,10 @@
 This project was assigned by Rubixe - AI Solutions Company in my internship to help strengthen my SQL skills.The main objective was to analyze a medical database by solving 34 structured SQL tasks. The queries focus on patient demographics, admissions, diagnoses, and doctor information.
 
 The database consisted of four tables:
-- **patients** - patient demographics and health details (5,000+ rows)
-- **admissions** - hospital admissions and diagnoses (4,500+ rows)
-- **doctors** - doctor information and specialties (25+ rows)
-- **province_names** - province ID to name mapping (few rows)
+- **patients** - patient demographics and health details (5,000+ records)
+- **admissions** - hospital admissions and diagnoses (4,500+ records)
+- **doctors** - doctor information and specialties (25+ records)
+- **province_names** - province ID to name mapping (few records)
 
 **Note**: The dataset is proprietary and provided by Rubixe - AI Solutions, so it is not included in this repository. Only SQL solutions and analysis are shared.
 
