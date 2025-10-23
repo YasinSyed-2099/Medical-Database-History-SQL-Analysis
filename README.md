@@ -496,4 +496,4 @@ AND d.first_name = 'Lisa'
 
 
 ## Acknowledgment
-This project was completed as part of my internship at Rubixe - AI Solutions Company. The dataset and tasks were provided by the company for learning and analysis purposes.
+This project was completed as part of my internship at Rubixe - AI Solutions Company. The dataset and tasks were provided by the company for  analysis purposes.
