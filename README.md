@@ -1,7 +1,7 @@
-# Medical Database History SQL Analysis
+# Medical Database History Analysis
 
 ## Project Overview
-- **Project Title**: Medical Database History SQL Analysis
+- **Project Title**: Medical Database History Analysis
 - **Database**: `project_medical_data_history`
 
 This project was assigned by Rubixe - AI Solutions Company in my internship to help strengthen my SQL skills.The main objective was to analyze a medical database by solving 34 structured SQL tasks. The queries focus on patient demographics, admissions, diagnoses, and doctor information.
