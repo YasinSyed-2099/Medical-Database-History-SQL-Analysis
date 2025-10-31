@@ -27,7 +27,7 @@ The database consisted of four tables:
 The repository includes:
 1. **EDA & Schema Overview** - row counts and column structures for each table.
 2. **34 SQL Queries** - each assigned task solved with its respective query.
-3. **Key Insights** - my personal observations and analysis from the queries.
+
 
 ### 1. EDA/Schema Overview 
 The following SQL queries were developed to analyze a medical database and answer structured questions :
@@ -488,10 +488,6 @@ WHERE diagnosis = 'Epilepsy'
 AND d.first_name = 'Lisa' 
 ;
 ```
-
-## 3. Key Insights
- After solving the assigned tasks, I also analyzed the dataset further to extract my own insights.
- (I will add these insights here after analysis)
 
 
 
